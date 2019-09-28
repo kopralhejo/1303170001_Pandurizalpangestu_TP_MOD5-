@@ -1,0 +1,52 @@
+data = 
+  {
+    "home": [
+        {
+          "id": 0,
+          "nama": "Pandu"
+        },
+        {
+          "id": 1,
+          "nim": "1303170001"
+        },
+        {
+          "id": 2,
+          "kelas": ""
+        }
+      ],
+      "about": "vsdsvsdfb",
+      "hobbies": "vsdsvsdfb",
+      "skills": [
+        {
+          "id": 0,
+          "nama_skill": "csac"
+        },
+        {
+          "id": 1,
+          "nama_skill": "670"
+        },
+        {
+          "id": 2,
+          "nama_skill": ""
+        }
+      ],
+      "education": [
+        {
+          "id": 0,
+          "sd": "csac"
+        },
+        {
+          "id": 1,
+          "smp": "670"
+        },
+        {
+          "id": 2,
+          "smk": ""
+        },
+        {
+          "id": 2,
+          "kuliah": ""
+        }
+      ],
+      "experience": "vsdsvsdfb"
+  }
