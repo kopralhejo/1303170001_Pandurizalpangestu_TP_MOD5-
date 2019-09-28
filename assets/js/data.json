@@ -1,0 +1,11 @@
+{
+    "home": {
+        "nama": "Pandu","nim": "1303170001","kelas": "IT-41-01"
+          },
+      "about": "Saya adalah pandu",
+      "hobbies": ["bermain","belajar","belajar"],
+      "skills": ["menabung","hemat","nyalain laptop"],
+      "education": ["SD","SMP","SMA IPS"],
+      "experience":[ "Bermain","Belajar","pernah nyalain laptop"]
+        
+  }
